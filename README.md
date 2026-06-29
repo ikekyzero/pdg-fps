@@ -113,7 +113,7 @@ This controller is designed to provide:
 | Jump           | Space      |
 | Sprint         | Left Shift |
 | Crouch / Slide | Left Ctrl  |
-| Dash           | Q          |
+| Dash           | C          |
 
 ## License
 
